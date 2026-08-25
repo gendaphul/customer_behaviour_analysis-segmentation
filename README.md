@@ -25,13 +25,13 @@ The analysis is organized into six focused Jupyter notebooks for easier understa
 ## 🔄 Project Workflow
 
 <p align="center">
-  <img src="assets/project-workflow.png" width="900">
+  <img src="project-workflow.png" width="900">
 </p>
 
 ## 🧠 Machine Learning Tasks
 
 <p align="center">
-  <img src="assets/ml-tasks.png" width="900">
+  <img src="ml-tasks.png" width="900">
 </p>
 
 | Task | Approach | Objective |
