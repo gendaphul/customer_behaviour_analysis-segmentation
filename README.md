@@ -1,7 +1,7 @@
 # Customer Behaviour Analysis & Prediction
 
 <p align="center">
-  <img src="assets/customer-behaviour-banner.png" width="900">
+  <img src="customer-behaviour-banner.png" width="900">
 </p>
 
 <p align="center"><b>Data Analysis • Machine Learning • Customer Segmentation</b></p>
